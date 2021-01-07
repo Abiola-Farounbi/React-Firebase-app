@@ -1,0 +1,119 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color:#2c2f33;
+}
+.textCenter{
+    text-align:center;
+}
+.sign_in_main{
+    width:50%;
+    margin:20px auto;
+    color:white;
+    background: #2C2F33;
+    box-shadow: 14px 14px 40px rgba(16, 16, 18, 0.75), -7px -7px 30px #262E32;
+    border-radius: 8px;
+    height:500px;
+    padding:10px 30px;
+}
+.sign_in_heading{
+    padding:10px;
+    text-align: center;
+}
+.sign_in_main form{
+    margin:20px auto;
+}
+.sign_in_main input{
+    padding:10px;
+    background: #2C2F33;
+    box-shadow: inset -6.22302px -6.22302px 6.22302px #3B4451, inset 3.73381px 3.73381px 6.22302px #000000;
+    border-radius: 12.446px;
+    margin:10px 0px ;
+    border:none;
+    color:white !important;
+    width:80%;
+}
+.sign_in_button{
+    padding:10px 20px;
+    background: #2C2F33;
+    box-shadow: -6.22302px -6.22302px 18.6691px #3B4451, 6.22302px 6.22302px 18.6691px #000000;
+    border-radius: 12.446px;
+    color:white;
+    border:0;
+    margin:10px 0px;
+}
+a{
+    color:#1A91FA;
+    text-decoration: none !important;
+    font-style: italic;
+}
+.sign_in_text{
+    margin:10px 0px;
+}
+
+/* sign up */
+.sign_up_main{
+    width:50%;
+    margin:20px auto;
+    color:white;
+    background: #2C2F33;
+    box-shadow: 14px 14px 40px rgba(16, 16, 18, 0.75), -7px -7px 30px #262E32;
+    border-radius: 8px;
+    height:500px;
+    padding:10px 30px;
+  }
+  .sign_up_heading{
+    padding:10px;
+    text-align:center; 
+  }
+  .sign_up_main form{
+    margin:20px auto;
+}
+.sign_up_main input{
+    padding:10px;
+    background: #2C2F33;
+    box-shadow: inset -6.22302px -6.22302px 6.22302px #3B4451, inset 3.73381px 3.73381px 6.22302px #000000;
+    border-radius: 12.446px;
+    margin:10px 0px ;
+    border:none;
+    width:80%;
+    color:white !important;
+}
+.sign_up_button{
+    padding:10px 20px;
+    background: #2C2F33;
+    box-shadow: -6.22302px -6.22302px 18.6691px #3B4451, 6.22302px 6.22302px 18.6691px #000000;
+    border-radius: 12.446px;
+    color:white;
+    border:0;
+    margin:15px 0px;
+}
+
+/* profile main */
+.profile_main{
+    width:300px;
+    height: 500px;
+    margin:20px auto;
+    background: #2C2F33;
+    box-shadow: -6.22302px -6.22302px 18.6691px #3B4451, 6.22302px 6.22302px 18.6691px #000000;
+    border-radius: 24.8921px;
+    text-align: center;
+    color:white;
+}
+.profile_main_button{
+    background: #2C2F33;
+    box-shadow: inset -6.22302px -6.22302px 6.22302px #3B4451, inset 3.73381px 3.73381px 6.22302px #000000;
+    border-radius: 12.446px;
+    padding:10px;
+    border:none;
+    margin:10px 0px;
+}
+.profile_main_text1{
+    font-size:20px;
+    font-weight: 900;
+    margin:10px 0px;
+}
+.profile_main_text2{
+    font-size:20px;
+    margin:10px 0px;
+}
